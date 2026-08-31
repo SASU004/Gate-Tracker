@@ -20,8 +20,4 @@ Your progress is saved automatically in your browser's local storage. It stays a
 
 Progress will not sync between browsers or devices, and clearing that browser's site data/local storage will remove it.
 
-## Countdown
-
-The header uses your device's local date. It counts down to February 1, 2027, showing 154 days on August 31, 2026 and 153 days on September 1, 2026.
-
 > The official GATE 2027 exam dates are still to be announced, so this is only a planning target.
